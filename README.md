@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/df88b63c-6ad1-4807-a7c8-7d49e3181488)# Soil-healthMonitoring
+# Soil-healthMonitoring
 The Soil Health Monitoring System uses machine learning to analyze soil data such as pH, moisture, and nutrient levels. It provides insights into soil quality, helping farmers make informed decisions on irrigation and fertilization. This system promotes better soil management, leading to improved crop yields and sustainable farming practices.
 
 
