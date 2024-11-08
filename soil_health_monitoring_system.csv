@@ -1,0 +1,151 @@
+Sample ID,State,City,Organic Matter (%),Nitrogen (ppm),Phosphorus (ppm),Potassium (ppm),pH Level,Microbial Activity (CFU/g),Soil Structure (1-5),Moisture Retention (%),Iron (ppm),Zinc (ppm),Temperature (°C),Soil Salinity (dS/m),Weather Condition,Soil Compaction (g/cm³),Soil Health
+001,Rajasthan,Patna,2.6,39,29,241,7.3,886911.1,3,19.4,8.4,1.4,29,0.46,Rainy,1.22,Unhealthy
+002,West Bengal,Chennai,2.0,35,15,195,6.7,1384623.2,2,14.1,8.2,1.2,25,0.44,Cloudy,1.13,Unhealthy
+003,Bihar,Pune,4.8,23,17,202,6.9,1230697.0,2,14.7,7.5,1.0,29,0.27,Rainy,1.13,Healthy
+004,Kerala,Jaipur,3.4,28,22,271,6.4,908546.2,3,14.6,8.2,0.8,29,0.31,Windy,1.1,Unhealthy
+005,Punjab,Patna,2.1,28,29,256,6.3,903060.4,2,23.8,8.2,1.0,28,0.48,Cloudy,1.25,Unhealthy
+006,Karnataka,Kolkata,3.1,22,20,193,6.7,1112490.7,3,13.5,7.0,1.0,31,0.39,Humid,1.18,Healthy
+007,Kerala,Kolkata,3.7,31,27,229,6.9,852679.8,1,19.6,7.2,1.1,26,0.29,Cloudy,1.17,Unhealthy
+008,Uttar Pradesh,Thiruvananthapuram,4.4,32,24,184,6.7,1197450.8,2,11.9,7.6,1.1,23,0.37,Cloudy,1.2,Healthy
+009,Bihar,Bengaluru,4.9,23,22,216,7.2,912578.2,2,10.5,8.1,0.9,24,0.42,Humid,1.2,Unhealthy
+010,Rajasthan,Thiruvananthapuram,2.0,35,30,189,7.4,717505.7,5,16.6,7.2,1.5,31,0.4,Rainy,1.25,Unhealthy
+011,Tamil Nadu,Ahmedabad,2.6,25,33,189,6.4,883418.0,1,13.8,7.3,1.1,22,0.41,Rainy,1.11,Unhealthy
+012,Maharashtra,Ahmedabad,2.0,24,20,185,6.4,1375682.9,3,24.0,7.9,1.2,31,0.43,Humid,1.2,Unhealthy
+013,Karnataka,Jaipur,3.1,36,24,229,6.4,1321145.5,4,22.3,7.2,1.0,26,0.39,Cloudy,1.27,Unhealthy
+014,Kerala,Bengaluru,3.1,30,27,196,7.1,722738.0,1,13.7,8.4,1.0,22,0.47,Humid,1.24,Unhealthy
+015,West Bengal,Bengaluru,2.7,27,29,205,6.2,1317672.1,1,16.3,7.9,1.1,25,0.3,Humid,1.21,Unhealthy
+016,Bihar,Ahmedabad,1.5,35,34,227,7.3,1419238.4,1,10.8,7.1,1.0,26,0.46,Windy,1.12,Unhealthy
+017,Gujarat,Kolkata,2.6,22,22,270,6.4,896721.8,1,15.6,7.5,1.4,29,0.41,Humid,1.11,Unhealthy
+018,Punjab,Patna,2.4,38,17,279,6.4,725257.3,1,14.4,8.5,1.2,25,0.47,Cloudy,1.25,Unhealthy
+019,Gujarat,Pune,3.8,27,27,218,7.3,783673.3,2,24.2,7.4,0.9,28,0.48,Rainy,1.2,Unhealthy
+020,Rajasthan,Bengaluru,3.1,20,27,180,6.5,796396.4,2,16.6,8.0,1.0,29,0.38,Sunny,1.29,Unhealthy
+021,Tamil Nadu,Thiruvananthapuram,3.8,23,25,191,7.2,1363741.0,3,19.8,7.4,1.0,27,0.3,Sunny,1.17,Healthy
+022,Karnataka,Patna,2.7,36,29,222,6.9,986343.5,5,19.5,7.7,0.9,30,0.26,Cloudy,1.26,Unhealthy
+023,Tamil Nadu,Ahmedabad,3.8,28,23,253,6.6,991745.3,1,19.8,8.0,1.4,24,0.35,Humid,1.29,Unhealthy
+024,Uttar Pradesh,Kolkata,3.7,27,31,203,7.0,1060893.0,5,18.2,7.6,1.1,24,0.4,Windy,1.29,Healthy
+025,Kerala,Patna,3.1,23,16,246,6.3,1031884.6,3,14.3,8.1,1.1,23,0.3,Humid,1.13,Unhealthy
+026,Gujarat,Ludhiana,4.6,30,21,263,6.8,755705.1,5,23.0,8.5,1.5,26,0.29,Rainy,1.2,Unhealthy
+027,Uttar Pradesh,Jaipur,2.4,37,26,208,6.8,1059205.9,3,10.8,7.3,1.1,28,0.25,Windy,1.16,Unhealthy
+028,Uttar Pradesh,Ludhiana,4.2,33,30,278,7.4,1435059.0,5,14.0,7.3,1.3,25,0.45,Cloudy,1.19,Healthy
+029,Bihar,Jaipur,4.2,39,34,277,6.7,863312.8,5,10.3,6.7,1.2,29,0.44,Windy,1.12,Unhealthy
+030,West Bengal,Bengaluru,1.9,27,16,214,7.3,843258.4,2,13.2,6.9,1.4,22,0.46,Sunny,1.19,Unhealthy
+031,Maharashtra,Kolkata,3.9,32,24,212,6.7,1162788.3,2,22.4,7.9,0.9,31,0.34,Sunny,1.16,Healthy
+032,Gujarat,Bengaluru,4.1,32,21,197,6.7,822764.4,3,14.6,7.1,1.0,24,0.35,Windy,1.11,Unhealthy
+033,Karnataka,Patna,1.5,28,31,228,6.4,1489813.7,3,13.2,6.9,1.4,28,0.46,Windy,1.29,Unhealthy
+034,Gujarat,Pune,4.9,21,34,230,6.2,814634.2,1,20.0,8.1,1.4,25,0.4,Humid,1.27,Unhealthy
+035,Karnataka,Bengaluru,3.2,27,22,235,6.4,1340598.0,5,24.0,7.4,1.0,23,0.5,Windy,1.21,Unhealthy
+036,Kerala,Bengaluru,4.6,38,34,256,7.2,881044.4,1,20.2,7.0,1.3,31,0.46,Sunny,1.1,Unhealthy
+037,Uttar Pradesh,Lucknow,2.1,24,34,232,6.9,1345275.6,1,23.6,7.6,0.8,26,0.46,Windy,1.25,Unhealthy
+038,Punjab,Ludhiana,2.4,28,23,198,6.9,709505.4,2,13.6,7.6,1.3,31,0.49,Rainy,1.11,Unhealthy
+039,Karnataka,Ahmedabad,3.4,27,31,227,6.3,1092157.8,3,23.7,7.6,1.2,29,0.39,Windy,1.21,Unhealthy
+040,Karnataka,Lucknow,2.7,27,32,264,7.3,808290.0,2,22.4,6.8,1.0,31,0.3,Sunny,1.24,Unhealthy
+041,Gujarat,Patna,3.8,28,22,220,7.5,1255649.9,5,16.3,6.5,1.2,25,0.34,Windy,1.26,Healthy
+042,Kerala,Pune,2.6,35,33,197,6.4,1183822.2,1,20.7,8.5,1.3,30,0.31,Sunny,1.26,Unhealthy
+043,Uttar Pradesh,Pune,2.2,23,19,246,7.1,968469.2,1,17.0,7.1,1.4,27,0.47,Rainy,1.25,Unhealthy
+044,West Bengal,Chennai,3.5,38,21,268,7.3,804832.4,4,15.6,6.6,1.3,31,0.46,Rainy,1.24,Unhealthy
+045,Karnataka,Jaipur,3.4,20,28,190,6.8,1282850.4,2,12.5,6.5,1.3,29,0.27,Sunny,1.3,Healthy
+046,Bihar,Kolkata,3.3,39,25,208,6.7,1483892.2,1,24.6,6.6,1.0,26,0.48,Humid,1.11,Healthy
+047,Uttar Pradesh,Kolkata,3.1,20,29,194,7.0,1400969.7,1,10.2,6.6,1.4,26,0.44,Sunny,1.13,Healthy
+048,Bihar,Thiruvananthapuram,3.5,26,28,222,6.1,1039445.1,2,19.7,7.0,1.3,24,0.35,Rainy,1.25,Unhealthy
+049,Kerala,Jaipur,1.6,39,15,231,6.2,976271.2,5,11.0,7.4,1.0,26,0.26,Windy,1.19,Unhealthy
+050,Uttar Pradesh,Pune,2.5,31,19,196,6.3,1121317.3,1,10.9,7.3,1.1,25,0.31,Cloudy,1.19,Unhealthy
+051,Uttar Pradesh,Bengaluru,2.3,28,23,273,7.1,1464969.2,2,11.5,6.9,0.8,23,0.28,Cloudy,1.27,Unhealthy
+052,Bihar,Ahmedabad,1.7,39,28,267,7.4,1350883.9,3,15.9,8.2,0.9,27,0.26,Sunny,1.21,Unhealthy
+053,Karnataka,Pune,1.9,26,33,202,6.4,880418.3,3,24.9,8.2,0.9,28,0.35,Rainy,1.28,Unhealthy
+054,West Bengal,Ludhiana,2.5,35,34,197,7.0,1280623.1,3,13.7,7.2,1.0,31,0.47,Rainy,1.26,Unhealthy
+055,Punjab,Kolkata,3.1,25,20,223,7.5,968249.4,4,21.9,6.7,1.1,28,0.44,Cloudy,1.22,Unhealthy
+056,Tamil Nadu,Chennai,5.0,21,28,183,7.1,935353.7,5,20.6,7.0,0.9,24,0.44,Rainy,1.29,Unhealthy
+057,Maharashtra,Ahmedabad,1.6,36,29,226,6.9,1025627.1,5,17.6,8.2,1.3,26,0.43,Windy,1.21,Unhealthy
+058,Punjab,Ludhiana,3.8,28,31,188,6.5,1031305.7,1,21.3,7.3,1.3,30,0.46,Windy,1.29,Healthy
+059,West Bengal,Bengaluru,4.6,23,32,277,6.3,1132779.1,1,12.7,7.1,1.2,28,0.4,Cloudy,1.19,Unhealthy
+060,Gujarat,Bengaluru,1.8,23,23,244,6.5,1050580.9,5,16.3,6.6,0.9,29,0.47,Humid,1.14,Unhealthy
+061,Gujarat,Patna,2.7,22,28,233,6.6,1288905.8,2,18.1,7.0,1.5,30,0.41,Cloudy,1.23,Unhealthy
+062,Tamil Nadu,Patna,3.7,23,22,224,7.4,949096.3,1,24.6,7.8,1.1,27,0.27,Cloudy,1.28,Unhealthy
+063,Punjab,Ahmedabad,3.2,22,20,185,6.3,1280009.1,2,12.1,8.0,1.3,28,0.37,Rainy,1.2,Unhealthy
+064,Karnataka,Lucknow,4.6,35,16,183,6.9,932829.4,5,21.3,7.2,1.2,26,0.39,Rainy,1.23,Unhealthy
+065,Maharashtra,Bengaluru,3.6,20,32,212,7.1,983863.0,4,15.0,6.7,1.0,28,0.41,Rainy,1.29,Unhealthy
+066,Maharashtra,Patna,2.8,21,23,256,6.9,928882.3,4,23.0,7.2,1.4,29,0.32,Cloudy,1.25,Unhealthy
+067,Punjab,Chennai,3.5,34,29,181,6.3,815978.5,1,13.1,7.9,1.0,27,0.3,Rainy,1.22,Unhealthy
+068,Gujarat,Lucknow,1.7,37,15,230,6.3,1140564.3,4,10.4,6.8,1.4,29,0.44,Humid,1.21,Unhealthy
+069,Gujarat,Chennai,4.9,35,18,218,7.4,740399.4,3,22.9,7.7,1.2,28,0.37,Windy,1.17,Unhealthy
+070,Tamil Nadu,Patna,3.5,38,19,274,7.3,1407544.0,2,14.9,8.5,1.0,26,0.43,Rainy,1.22,Healthy
+071,Bihar,Ludhiana,2.3,34,28,264,6.3,856910.4,2,16.0,7.2,0.9,24,0.38,Windy,1.19,Unhealthy
+072,Uttar Pradesh,Ludhiana,2.7,31,26,268,6.9,1029418.7,4,14.4,7.9,1.5,30,0.27,Humid,1.14,Unhealthy
+073,West Bengal,Patna,3.3,28,29,263,6.6,898601.4,3,12.7,6.5,1.5,28,0.28,Windy,1.12,Unhealthy
+074,Gujarat,Chennai,2.4,20,18,263,6.9,1325575.9,5,22.9,8.2,0.9,22,0.32,Sunny,1.13,Unhealthy
+075,West Bengal,Jaipur,2.6,35,22,186,7.1,940934.9,2,11.4,8.0,1.4,25,0.28,Windy,1.28,Unhealthy
+076,Punjab,Kolkata,3.7,38,20,272,7.0,1473621.9,4,24.3,8.0,1.4,26,0.44,Humid,1.1,Healthy
+077,Uttar Pradesh,Lucknow,3.8,38,25,272,6.7,1467158.6,2,11.2,7.7,0.9,25,0.48,Windy,1.23,Healthy
+078,Gujarat,Bengaluru,3.4,22,29,224,6.8,1365792.8,2,13.3,7.9,0.9,22,0.28,Cloudy,1.21,Healthy
+079,Kerala,Jaipur,3.7,35,17,244,7.3,1113295.6,5,12.7,8.1,0.8,28,0.37,Sunny,1.15,Healthy
+080,Tamil Nadu,Ludhiana,2.3,21,15,244,6.9,795731.5,1,21.5,7.2,0.8,22,0.26,Sunny,1.17,Unhealthy
+081,Kerala,Bengaluru,5.0,24,25,223,6.4,1409470.6,3,23.5,7.1,1.1,23,0.35,Cloudy,1.28,Unhealthy
+082,Bihar,Patna,2.7,28,28,253,7.0,1373118.9,2,13.5,8.5,1.3,31,0.45,Cloudy,1.25,Unhealthy
+083,Karnataka,Bengaluru,3.3,20,28,242,7.1,806361.4,4,10.2,7.3,1.2,30,0.27,Windy,1.11,Unhealthy
+084,Maharashtra,Jaipur,1.9,21,33,203,6.1,1247471.1,5,21.8,6.5,1.5,23,0.34,Cloudy,1.13,Unhealthy
+085,Kerala,Patna,4.6,32,30,257,6.8,1432206.9,2,16.6,7.1,1.3,27,0.28,Cloudy,1.16,Healthy
+086,Rajasthan,Kolkata,2.8,30,18,236,7.2,773051.5,3,22.8,6.7,1.0,31,0.36,Humid,1.29,Unhealthy
+087,Gujarat,Lucknow,4.0,22,34,246,6.3,915599.5,5,24.6,7.4,0.9,28,0.36,Rainy,1.24,Unhealthy
+088,West Bengal,Chennai,2.4,33,25,276,6.9,1245166.8,1,21.0,8.4,1.4,29,0.28,Cloudy,1.16,Unhealthy
+089,Tamil Nadu,Lucknow,2.5,25,27,243,6.6,1211906.5,3,10.8,8.0,1.4,31,0.36,Sunny,1.18,Unhealthy
+090,West Bengal,Bengaluru,2.0,39,32,264,6.4,1065344.4,2,19.3,8.4,0.9,29,0.28,Humid,1.23,Unhealthy
+091,Uttar Pradesh,Kolkata,1.8,24,20,196,6.1,1095626.8,3,24.3,8.2,1.3,25,0.36,Sunny,1.11,Unhealthy
+092,West Bengal,Jaipur,2.1,27,26,251,7.5,1178161.7,1,10.6,6.6,1.1,27,0.39,Humid,1.1,Unhealthy
+093,Tamil Nadu,Kolkata,3.9,24,16,274,6.4,995582.2,4,23.5,7.8,1.0,22,0.44,Humid,1.22,Unhealthy
+094,Gujarat,Kolkata,3.7,34,18,186,7.4,1326126.6,2,17.9,7.9,0.9,25,0.47,Sunny,1.13,Healthy
+095,Karnataka,Ahmedabad,4.4,31,23,275,6.6,704940.6,1,24.5,8.5,1.2,29,0.43,Rainy,1.3,Unhealthy
+096,West Bengal,Ahmedabad,3.7,36,31,197,6.9,1328094.9,3,15.9,7.2,1.4,26,0.47,Rainy,1.22,Healthy
+097,Maharashtra,Patna,3.1,39,18,228,6.1,1257187.2,3,15.3,6.8,1.4,25,0.31,Humid,1.22,Unhealthy
+098,Bihar,Pune,3.2,36,34,228,6.2,1358283.0,3,13.0,6.8,1.2,22,0.39,Sunny,1.19,Unhealthy
+099,Karnataka,Jaipur,1.8,32,24,275,7.4,1035840.3,1,21.0,7.1,1.1,30,0.45,Sunny,1.15,Unhealthy
+100,Karnataka,Pune,3.8,29,34,209,6.0,1222099.5,3,14.2,7.8,1.1,30,0.26,Humid,1.2,Unhealthy
+101,West Bengal,Ludhiana,2.6,33,33,241,6.6,1169013.3,1,16.1,8.0,0.9,27,0.37,Rainy,1.11,Unhealthy
+102,Punjab,Jaipur,4.3,29,26,228,6.3,961676.8,2,11.9,8.4,0.9,22,0.41,Sunny,1.26,Unhealthy
+103,Punjab,Jaipur,1.8,33,29,257,7.5,875741.4,5,20.9,7.8,1.2,26,0.42,Cloudy,1.29,Unhealthy
+104,Bihar,Bengaluru,3.4,28,18,244,7.3,991153.0,4,20.2,7.4,1.4,27,0.5,Humid,1.27,Unhealthy
+105,Uttar Pradesh,Bengaluru,1.5,32,30,242,6.2,1456339.6,5,24.6,8.2,1.0,22,0.44,Sunny,1.17,Unhealthy
+106,Kerala,Pune,4.5,36,21,180,7.0,917502.3,1,24.4,7.4,1.3,25,0.34,Rainy,1.21,Unhealthy
+107,Rajasthan,Bengaluru,1.7,21,28,225,6.8,853305.3,4,18.2,7.3,1.2,30,0.4,Windy,1.22,Unhealthy
+108,Tamil Nadu,Patna,4.7,29,24,254,6.1,1184461.1,3,22.1,8.3,1.4,26,0.33,Rainy,1.26,Unhealthy
+109,Bihar,Bengaluru,2.6,23,23,214,7.1,855983.3,3,19.4,8.2,0.9,22,0.29,Humid,1.16,Unhealthy
+110,Punjab,Ludhiana,3.7,24,28,244,7.0,1306953.4,3,24.0,7.4,1.4,30,0.46,Sunny,1.16,Healthy
+111,Tamil Nadu,Patna,3.6,20,28,257,7.2,1479582.4,2,11.5,7.2,1.3,26,0.47,Humid,1.23,Healthy
+112,West Bengal,Lucknow,4.0,38,25,263,6.2,816477.1,2,24.8,7.5,1.3,23,0.45,Sunny,1.22,Unhealthy
+113,Uttar Pradesh,Lucknow,2.6,24,18,208,6.2,816264.4,5,10.2,7.4,0.9,22,0.34,Cloudy,1.15,Unhealthy
+114,Bihar,Lucknow,1.6,31,16,234,6.5,1374787.9,5,11.3,7.6,0.8,28,0.26,Humid,1.23,Unhealthy
+115,Maharashtra,Lucknow,4.8,34,20,213,6.7,868067.4,5,18.9,6.5,1.4,27,0.42,Rainy,1.13,Unhealthy
+116,Maharashtra,Patna,4.7,27,19,267,6.5,1146209.3,1,22.6,7.9,1.4,31,0.31,Windy,1.28,Healthy
+117,Tamil Nadu,Bengaluru,4.3,28,18,277,6.8,1216396.5,4,17.9,6.8,0.8,28,0.26,Rainy,1.11,Healthy
+118,Punjab,Kolkata,3.9,23,15,243,7.0,1271634.1,1,20.0,6.6,1.3,28,0.29,Sunny,1.11,Healthy
+119,West Bengal,Lucknow,3.9,26,24,228,7.0,712683.4,2,21.1,7.4,1.2,24,0.44,Humid,1.2,Unhealthy
+120,Uttar Pradesh,Chennai,3.7,37,28,183,6.6,848111.7,2,14.9,7.9,0.9,29,0.37,Windy,1.17,Unhealthy
+121,Punjab,Bengaluru,2.0,34,16,219,6.8,1071987.3,3,24.1,7.1,1.0,26,0.28,Cloudy,1.19,Unhealthy
+122,Kerala,Thiruvananthapuram,2.4,22,19,228,6.4,1003676.0,5,21.0,6.9,0.9,28,0.39,Humid,1.15,Unhealthy
+123,Karnataka,Ahmedabad,2.1,30,24,193,6.9,1326302.8,5,23.8,7.3,1.0,25,0.5,Rainy,1.28,Unhealthy
+124,Bihar,Pune,4.5,36,30,201,6.3,1218015.8,4,16.6,7.1,1.1,24,0.45,Windy,1.24,Unhealthy
+125,Punjab,Pune,4.8,29,32,218,6.2,1203925.8,1,15.1,8.5,1.3,25,0.28,Cloudy,1.2,Unhealthy
+126,Uttar Pradesh,Thiruvananthapuram,2.7,38,22,276,6.8,728404.6,2,20.9,7.1,1.2,31,0.42,Cloudy,1.12,Unhealthy
+127,Karnataka,Thiruvananthapuram,3.5,27,15,210,6.1,1451986.3,1,15.4,7.8,1.1,24,0.47,Humid,1.19,Unhealthy
+128,West Bengal,Bengaluru,2.7,26,25,241,6.2,844629.6,2,21.5,7.1,0.9,31,0.47,Cloudy,1.1,Unhealthy
+129,Uttar Pradesh,Pune,3.6,28,21,258,7.5,1072268.2,4,24.8,7.4,1.1,25,0.31,Rainy,1.17,Healthy
+130,Uttar Pradesh,Bengaluru,2.0,34,31,217,6.6,1187823.2,4,13.9,7.3,1.0,31,0.4,Humid,1.28,Unhealthy
+131,Kerala,Lucknow,2.8,39,20,251,6.1,911149.9,4,21.1,8.1,1.2,29,0.25,Rainy,1.17,Unhealthy
+132,Punjab,Pune,4.3,33,17,217,6.5,1005530.5,2,15.6,7.1,1.3,27,0.27,Rainy,1.22,Healthy
+133,Bihar,Pune,1.9,30,18,192,7.4,1032597.4,3,18.1,6.7,1.5,31,0.29,Humid,1.27,Unhealthy
+134,Punjab,Lucknow,2.5,23,20,236,6.9,1459805.5,2,23.0,8.3,1.4,26,0.44,Windy,1.24,Unhealthy
+135,Tamil Nadu,Bengaluru,4.5,21,25,185,6.5,938369.6,4,11.6,7.6,1.2,29,0.36,Windy,1.2,Unhealthy
+136,Maharashtra,Ahmedabad,4.2,36,33,209,6.2,1267818.8,1,19.3,6.8,1.3,25,0.3,Sunny,1.1,Unhealthy
+137,Bihar,Pune,3.9,25,33,187,6.3,999879.0,3,12.6,7.5,0.9,27,0.37,Cloudy,1.28,Unhealthy
+138,Kerala,Ahmedabad,4.3,28,22,214,7.1,1367596.6,2,22.4,7.1,1.1,30,0.31,Humid,1.22,Healthy
+139,Bihar,Ahmedabad,1.6,37,24,196,6.1,1478346.3,1,11.2,7.5,1.1,31,0.27,Humid,1.19,Unhealthy
+140,Karnataka,Thiruvananthapuram,4.0,37,25,215,6.3,1039371.3,5,11.2,8.4,1.0,24,0.47,Humid,1.11,Unhealthy
+141,Rajasthan,Ludhiana,4.7,22,16,199,6.6,1304926.0,5,19.5,7.9,1.2,27,0.31,Cloudy,1.29,Healthy
+142,Tamil Nadu,Patna,4.2,20,21,181,6.7,843877.1,2,21.1,8.3,1.2,22,0.45,Windy,1.22,Unhealthy
+143,Uttar Pradesh,Jaipur,2.1,33,15,253,6.7,1091179.0,5,11.3,6.7,0.9,28,0.43,Windy,1.15,Unhealthy
+144,Punjab,Lucknow,2.8,36,32,237,7.1,771497.6,4,10.7,7.0,1.0,26,0.37,Sunny,1.16,Unhealthy
+145,Uttar Pradesh,Ahmedabad,4.0,28,31,226,7.1,1333153.5,1,22.8,7.2,0.9,23,0.29,Sunny,1.25,Healthy
+146,Karnataka,Patna,1.8,25,18,203,6.7,1025073.2,1,17.8,8.1,1.2,31,0.29,Cloudy,1.23,Unhealthy
+147,Uttar Pradesh,Pune,5.0,20,23,266,7.5,1012823.0,1,17.7,6.6,1.2,30,0.33,Cloudy,1.19,Healthy
+148,Maharashtra,Jaipur,1.7,23,18,271,7.3,997107.2,3,11.1,6.8,0.8,31,0.45,Humid,1.18,Unhealthy
+149,Gujarat,Pune,4.5,22,34,187,6.1,1176723.5,5,13.2,8.2,1.0,26,0.33,Sunny,1.29,Unhealthy
+150,Bihar,Pune,4.5,37,18,277,6.6,1222292.6,4,17.1,6.8,1.2,27,0.37,Humid,1.1,Healthy
